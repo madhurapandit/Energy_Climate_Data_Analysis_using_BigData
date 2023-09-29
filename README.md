@@ -18,7 +18,6 @@ its correlation to daily energy consumption data of household buildings in Londo
 
 
 ## Architecture
-
 [
 ![image](https://user-images.githubusercontent.com/105995798/203043934-322b45d1-d5c4-423e-8f31-25de9702c2e5.png)
 ](url)
